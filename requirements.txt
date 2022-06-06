@@ -1,1 +1,1 @@
-pip pandas matplotlib
+pandas matplotlib
